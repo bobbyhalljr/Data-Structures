@@ -73,3 +73,4 @@ Answer the following questions for each of the data structures you implemented a
     a. Compare the runtime of the doubly linked list's `delete` method with the worst-case runtime of the JS `Array.splice` method. Which method generally performs better?
 
     - doubly linked list "delete" is better because its O(1) instead of O(1), you don't have to go through the whole list.
+
